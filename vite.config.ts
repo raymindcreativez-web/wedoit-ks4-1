@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/wedoit-ks4/',
+  base: '/wedoit-ks4-1/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
